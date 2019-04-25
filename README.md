@@ -68,4 +68,4 @@
 - [LastPass](https://www.lastpass.com/)
 
 ## Others
-- [Spring Security - @PreFilter and @PostFilter | Baeldung](http://www.baeldung.com/spring-security-prefilter-postfilter)
+- [Spring Security - @PreFilter and @PostFilter,  Baeldung](http://www.baeldung.com/spring-security-prefilter-postfilter)
