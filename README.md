@@ -72,3 +72,4 @@
 
 ## Others
 - [Spring Security - @PreFilter and @PostFilter,  Baeldung](http://www.baeldung.com/spring-security-prefilter-postfilter)
+- [docker搭建nexus3，配置setting.xml,以及maven工程deploy配置，docker镜像提交nexus3私有仓库 - 爱程序，更爱生活 - OSCHINA](https://my.oschina.net/shxjinchao/blog/3007168)
