@@ -45,8 +45,8 @@
 - [Outlook Web App](https://mail.emerson.com/owa/auth/logon.aspx?url=https://mail.emerson.com/owa/&reason=0)
 - [在线HTML编辑器](http://kindeditor.net/demo.php)
 - [有道翻译 \- 免费在线翻译](http://fanyi.youdao.com/)
-- [HTML Color Picker](http://www.w3schools.com/tags/ref_colorpicker.asp)
-- [Web数据导入 - 随手记](http://www.feidee.com/money/data/standard_data_import.do)
+- [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
+- [Web数据导入 - 随手记](https://www.sui.com/data/standard_data_import.do)
 - [快递100-查快递,寄快递,上快递100](http://www.kuaidi100.com/)
 - [Chrome Web Store - Apps](https://chrome.google.com/webstore/category/apps?hl=en-US&utm_source=chrome-ntp-launcher)
 - [Google URL Shortener](https://goo.gl/)
@@ -63,11 +63,13 @@
 - ~~[WebQQ](http://w.qq.com/) [SmartQQ](https://web2.qq.com/)~~ :cry:
 - [EASYICON.NET](https://www.easyicon.net/)
 - [保修服务和支持期限（序列号）查询工具 \- Apple 支持](https://checkcoverage.apple.com/cn/zh/;jsessionid=75B2ZMhTgy1LXlyGlZ6P7Y0H9j4QXttT2DJtSmpcL4jL65D18ZdM!-1931564690)
-- [网络工具_深圳维盟](http://www.wayos.com/help.html)
 
 ## iApp
 - [随手记](http://www.sui.com)
 - [LastPass](https://www.lastpass.com/)
+
+## iDevice
+- [深圳维盟 - 企业路由器](http://www.wayos.com/)
 
 ## Others
 - [Spring Security - @PreFilter and @PostFilter,  Baeldung](http://www.baeldung.com/spring-security-prefilter-postfilter)
