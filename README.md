@@ -60,7 +60,7 @@
 - [Google Code Prettify Test](http://google-code-prettify.googlecode.com/svn/trunk/tests/prettify_test.html)
 - [IP地址查询](http://www.ip138.com/)
 - [百度云搜索-百度网盘搜索-百度云网盘搜索引擎](http://www.bdyunso.com/)
-- [WebQQ](http://w.qq.com/)
+- ~~[WebQQ](http://w.qq.com/) [SmartQQ](https://web2.qq.com/)~~ :cry:
 - [EASYICON.NET](https://www.easyicon.net/)
 - [保修服务和支持期限（序列号）查询工具 \- Apple 支持](https://checkcoverage.apple.com/cn/zh/;jsessionid=75B2ZMhTgy1LXlyGlZ6P7Y0H9j4QXttT2DJtSmpcL4jL65D18ZdM!-1931564690)
 - [网络工具_深圳维盟](http://www.wayos.com/help.html)
