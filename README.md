@@ -16,6 +16,7 @@
 
 ## iBaby
 - [巧虎-个人中心](https://my.qiaohu.com/)
+- [2019陕西旅游年票](http://np.xtour.cn/)
 
 ## iGeek
 - [Jekyll • Simple, blog-aware, static sites, Transform your plain text into static websites and blogs](https://jekyllrb.com/)
