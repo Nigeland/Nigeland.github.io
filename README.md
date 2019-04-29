@@ -22,6 +22,7 @@
 - [Jekyll • Simple, blog-aware, static sites, Transform your plain text into static websites and blogs](https://jekyllrb.com/)
 - [Liquid template language](https://shopify.github.io/liquid/)
 - [Android Bootstrap](https://fractalwrench.co.uk/)
+
 ## WebApps
 - [html转markdown - 在线工具](https://tool.lu/markdown/)
 - [Text to ASCII Art Generator (TAAG)](http://patorjk.com/software/taag/)
@@ -75,3 +76,4 @@
 ## Others
 - [Spring Security - @PreFilter and @PostFilter,  Baeldung](http://www.baeldung.com/spring-security-prefilter-postfilter)
 - [docker搭建nexus3，配置setting.xml,以及maven工程deploy配置，docker镜像提交nexus3私有仓库 - 爱程序，更爱生活 - OSCHINA](https://my.oschina.net/shxjinchao/blog/3007168)
+- [Pushing branches and tags with a single "git push" invocation · wincent.com](https://wincent.com/wiki/Pushing_branches_and_tags_with_a_single_%22git_push%22_invocation)
