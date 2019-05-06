@@ -40,6 +40,8 @@
 - [URL Decode and Encode - Online](https://www.urldecoder.org/)
 - [::SocketTest:: - Test My Socket](http://sockettest.sourceforge.net/)
 - [SSL Converter](https://decoder.link/converter)
+- [test-cors.org](http://www.test-cors.org/)
+- [图片在线转换Base64,图片编码base64](http://tool.css-js.com/base64.html)
 
 - [Capture the web you’ve been missing – Delicious](https://delicious.com/)
 - [Byliner.com](https://www.byliner.com/landing)
@@ -51,20 +53,26 @@
 - [Web数据导入 - 随手记](https://www.sui.com/data/standard_data_import.do)
 - [快递100-查快递,寄快递,上快递100](http://www.kuaidi100.com/)
 - [Chrome Web Store - Apps](https://chrome.google.com/webstore/category/apps?hl=en-US&utm_source=chrome-ntp-launcher)
+
 - [Google URL Shortener](https://goo.gl/)
+- [百度短网址](https://dwz.cn/)
+- [短网址_短链接_网址缩短-suo.im短网址](http://suo.im/)
+
 - [在线二维码生成器](http://cli.im/)
 - [二维码生成_北京灵动快拍信息技术有限公司](http://www.kuaipai.cn/sc.htm)
-- [Chrome Extension Downloader](http://chrome-extension-downloader.com/)
+
+- [EASYICON.NET](https://www.easyicon.net/)
 - [美图秀秀网页版 官方网站_在线制作图片及图片处理工具](http://xiuxiu.web.meitu.com/main.html)
 - [PS_在线PS\_ps下载\_photoshop_在线ps照片](http://www.webps.cn/)
-- [图片在线转换Base64,图片编码base64](http://tool.css-js.com/base64.html)
+
+- [Chrome Extension Downloader](http://chrome-extension-downloader.com/)
+
 - [在线代码格式化](http://tool.oschina.net/codeformat)
 - [Google Code Prettify Test](http://google-code-prettify.googlecode.com/svn/trunk/tests/prettify_test.html)
+
 - [IP地址查询](http://www.ip138.com/)
 - [百度云搜索-百度网盘搜索-百度云网盘搜索引擎](http://www.bdyunso.com/)
 - ~~[WebQQ](http://w.qq.com/) [SmartQQ](https://web2.qq.com/)~~ :cry:
-- [EASYICON.NET](https://www.easyicon.net/)
-- [保修服务和支持期限（序列号）查询工具 \- Apple 支持](https://checkcoverage.apple.com/cn/zh/;jsessionid=75B2ZMhTgy1LXlyGlZ6P7Y0H9j4QXttT2DJtSmpcL4jL65D18ZdM!-1931564690)
 
 ## iApp
 - [随手记](http://www.sui.com)
@@ -72,6 +80,7 @@
 
 ## iDevice
 - [深圳维盟 - 企业路由器](http://www.wayos.com/)
+- [保修服务和支持期限（序列号）查询工具 \- Apple 支持](https://checkcoverage.apple.com/cn/zh/;jsessionid=75B2ZMhTgy1LXlyGlZ6P7Y0H9j4QXttT2DJtSmpcL4jL65D18ZdM!-1931564690)
 
 ## Others
 - [Spring Security - @PreFilter and @PostFilter,  Baeldung](http://www.baeldung.com/spring-security-prefilter-postfilter)
