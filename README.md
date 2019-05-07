@@ -66,6 +66,7 @@
 - [PS_在线PS\_ps下载\_photoshop_在线ps照片](http://www.webps.cn/)
 
 - [Chrome Extension Downloader](http://chrome-extension-downloader.com/)
+- [在线 Google 输入工具](https://www.google.com/inputtools/try/)
 
 - [在线代码格式化](http://tool.oschina.net/codeformat)
 - [Google Code Prettify Test](http://google-code-prettify.googlecode.com/svn/trunk/tests/prettify_test.html)
