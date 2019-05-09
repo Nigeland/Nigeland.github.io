@@ -93,3 +93,4 @@
 - [CORS with Spring Boot and Spring Security · Eisen Blog](https://aisensiy.github.io/2017/11/08/spring-cors-and-security/)
 - [Pushing branches and tags with a single "git push" invocation · wincent.com](https://wincent.com/wiki/Pushing_branches_and_tags_with_a_single_%22git_push%22_invocation)
 - [关于 Spring Security OAuth2 中 CORS 跨域问题 - 花儿笑弯了腰 - 博客园](https://www.cnblogs.com/Irving/p/9712437.html)
+- [Swagger除了注解方式之外自定义添加接口，额外定义接口 - 神在异乡 - CSDN博客](https://blog.csdn.net/chemphone/article/details/79195687)
