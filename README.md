@@ -82,8 +82,14 @@
 ## iDevice
 - [深圳维盟 - 企业路由器](http://www.wayos.com/)
 - [保修服务和支持期限（序列号）查询工具 \- Apple 支持](https://checkcoverage.apple.com/cn/zh/;jsessionid=75B2ZMhTgy1LXlyGlZ6P7Y0H9j4QXttT2DJtSmpcL4jL65D18ZdM!-1931564690)
+- [我的产品和服务 | Dell 中国](https://www.dell.com/support/assets-online/cn/zh/cndhs1#/overview)
+- [Dell Data Protection | Security Tools | 驱动程序详情 | Dell 中国](https://www.dell.com/support/home/cn/zh/cndhs1/Drivers/DriversDetails?driverId=DNN2P)
 
 ## Others
+
+## ReadMe
 - [Spring Security - @PreFilter and @PostFilter,  Baeldung](http://www.baeldung.com/spring-security-prefilter-postfilter)
 - [docker搭建nexus3，配置setting.xml,以及maven工程deploy配置，docker镜像提交nexus3私有仓库 - 爱程序，更爱生活 - OSCHINA](https://my.oschina.net/shxjinchao/blog/3007168)
+- [CORS with Spring Boot and Spring Security · Eisen Blog](https://aisensiy.github.io/2017/11/08/spring-cors-and-security/)
 - [Pushing branches and tags with a single "git push" invocation · wincent.com](https://wincent.com/wiki/Pushing_branches_and_tags_with_a_single_%22git_push%22_invocation)
+- [关于 Spring Security OAuth2 中 CORS 跨域问题 - 花儿笑弯了腰 - 博客园](https://www.cnblogs.com/Irving/p/9712437.html)
