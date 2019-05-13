@@ -95,3 +95,4 @@
 - [关于 Spring Security OAuth2 中 CORS 跨域问题 - 花儿笑弯了腰 - 博客园](https://www.cnblogs.com/Irving/p/9712437.html)
 - [Swagger除了注解方式之外自定义添加接口，额外定义接口 - 神在异乡 - CSDN博客](https://blog.csdn.net/chemphone/article/details/79195687)
 - [解决Documenting Spring's login/logout API in Swagger - swagger-2.0-api-swagger - ITkeyowrd](http://www.itkeyword.com/doc/1187604553593816691/spring-s-login-logout-api-in-swagger)
+- [10 ways to Join two Lists in Java - Techie Delight](https://www.techiedelight.com/join-two-lists-java/)
