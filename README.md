@@ -87,8 +87,8 @@
 ## iDevice
 - [深圳维盟 - 企业路由器](http://www.wayos.com/)
 - [保修服务和支持期限（序列号）查询工具 \- Apple 支持](https://checkcoverage.apple.com/cn/zh/;jsessionid=75B2ZMhTgy1LXlyGlZ6P7Y0H9j4QXttT2DJtSmpcL4jL65D18ZdM!-1931564690)
-- [我的产品和服务 | Dell 中国](https://www.dell.com/support/assets-online/cn/zh/cndhs1#/overview)
-- [Dell Data Protection | Security Tools | 驱动程序详情 | Dell 中国](https://www.dell.com/support/home/cn/zh/cndhs1/Drivers/DriversDetails?driverId=DNN2P)
+- [我的产品和服务 - Dell 中国](https://www.dell.com/support/assets-online/cn/zh/cndhs1#/overview)
+- [Dell Data Protection - Security Tools | 驱动程序详情 | Dell 中国](https://www.dell.com/support/home/cn/zh/cndhs1/Drivers/DriversDetails?driverId=DNN2P)
 
 ## Others
 
@@ -103,4 +103,4 @@
 - [10 ways to Join two Lists in Java - Techie Delight](https://www.techiedelight.com/join-two-lists-java/)
 - [Spring 5 Testing with @EnabledIf Annotation | Baeldung](https://www.baeldung.com/spring-5-enabledIf)
 - [Spring Testing](https://docs.spring.io/spring/docs/current/spring-framework-reference/testing.html)
-
+- [Spring Profiles | Baeldung](https://www.baeldung.com/spring-profiles)
