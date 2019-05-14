@@ -24,7 +24,7 @@
 - [2019陕西旅游年票](http://np.xtour.cn/)
 
 ## iGeek
-- [Jekyll • Simple, blog-aware, static sites, Transform your plain text into static websites and blogs](https://jekyllrb.com/)
+- [Jekyll - Simple, blog-aware, static sites, Transform your plain text into static websites and blogs](https://jekyllrb.com/)
 - [Liquid template language](https://shopify.github.io/liquid/)
 - [Android Bootstrap](https://fractalwrench.co.uk/)
 
@@ -53,7 +53,7 @@
 - [Video Hosting for Business](http://wistia.com/?about=16011)
 - [Outlook Web App](https://mail.emerson.com/owa/auth/logon.aspx?url=https://mail.emerson.com/owa/&reason=0)
 - [在线HTML编辑器](http://kindeditor.net/demo.php)
-- [有道翻译 \- 免费在线翻译](http://fanyi.youdao.com/)
+- [有道翻译 - 免费在线翻译](http://fanyi.youdao.com/)
 - [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
 - [Web数据导入 - 随手记](https://www.sui.com/data/standard_data_import.do)
 - [快递100-查快递,寄快递,上快递100](http://www.kuaidi100.com/)
@@ -103,4 +103,4 @@
 - [10 ways to Join two Lists in Java - Techie Delight](https://www.techiedelight.com/join-two-lists-java/)
 - [Spring 5 Testing with @EnabledIf Annotation | Baeldung](https://www.baeldung.com/spring-5-enabledIf)
 - [Spring Testing](https://docs.spring.io/spring/docs/current/spring-framework-reference/testing.html)
-- [Spring Profiles | Baeldung](https://www.baeldung.com/spring-profiles)
+- [Spring Profiles - Baeldung](https://www.baeldung.com/spring-profiles)
