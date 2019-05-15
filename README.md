@@ -106,3 +106,4 @@
 - [Spring 5 Testing with @EnabledIf Annotation - Baeldung](https://www.baeldung.com/spring-5-enabledIf)
 - [Spring Testing](https://docs.spring.io/spring/docs/current/spring-framework-reference/testing.html)
 - [Spring Profiles - Baeldung](https://www.baeldung.com/spring-profiles)
+- [gradle init.gradle的文件配置 使用 - chuquan.ou - 博客园](http://www.cnblogs.com/langtianya/p/5220212.html)
