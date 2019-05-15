@@ -18,6 +18,7 @@
 - [快递100](https://m.kuaidi100.com/)
 - [西安交通发布实时公交](http://www.xajtfb.cn/BusPage/bus_realtime)
 - [个人信用信息服务平台](https://ipcrs.pbccrc.org.cn/)
+- [清涼山居 - 一房一價](http://kandianbang.cn/house/public/price?id=8a901c2869c4902b0169db8ca66334bc) [!](http://117.39.29.75:8085/pricePublic/house/public/price?id=8a901c2869c4902b0169db8ca66334bc)
 
 ## iBaby
 - [巧虎-个人中心](https://my.qiaohu.com/)
