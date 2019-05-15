@@ -70,6 +70,7 @@
 - [EASYICON.NET](https://www.easyicon.net/)
 - [美图秀秀网页版 官方网站_在线制作图片及图片处理工具](http://xiuxiu.web.meitu.com/main.html)
 - [PS_在线PS\_ps下载\_photoshop_在线ps照片](http://www.webps.cn/)
+- [PS_在线PS_ps下载_photoshop_在线ps照片](https://m.kantu.com/)
 
 - [Chrome Extension Downloader](http://chrome-extension-downloader.com/)
 - [在线 Google 输入工具](https://www.google.com/inputtools/try/)
