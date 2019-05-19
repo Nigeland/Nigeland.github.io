@@ -12,9 +12,9 @@
 
 ## iLife
 - [西安市住房保障和房屋管理局](http://fgj.xa.gov.cn)
-- [西安市商品住房认购登记平台](http://zfyxdj.xa.gov.cn) [!](http://124.115.228.93)
+- [西安市商品住房认购登记平台](http://zfyxdj.xa.gov.cn) [(城六区)](http://zfyxdj.xa.gov.cn/zfrgdjpt/xmgs.aspx) [(长安区)](http://zfyxdj.xa.gov.cn/zfrgdjpt/xmgsca.aspx) [!](http://124.115.228.93) [!!](http://kandianbang.cn/zfyxdj/)
 - [西咸新区政务](http://zw.xixianxinqu.gov.cn/)
-- [沣东新城购房意向登记](http://kandianbang.cn/zfrgdjpt/) [!](http://111.20.241.194:801/zfrgdjpt/)
+- [沣东新城购房意向登记](http://kandianbang.cn/zfrgdjpt-fd/) [!](http://111.20.241.194:801/zfrgdjpt/)
 - [快递100](https://m.kuaidi100.com/)
 - [西安交通发布实时公交](http://www.xajtfb.cn/BusPage/bus_realtime)
 - [个人信用信息服务平台](https://ipcrs.pbccrc.org.cn/)
