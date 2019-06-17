@@ -102,6 +102,9 @@
 - [适用于Precision 7720的支持 - 驱动程序和下载 - Dell 中国](https://www.dell.com/support/home/cn/zh/cndhs1/product-support/servicetag/6wj5gh2/drivers)
 - [Fingerprint Reader Installation Guide. \| Dell 中国](https://www.dell.com/support/article/cn/zh/cndhs1/sln155141/fingerprint-reader-installation-guide?lang=en)
 
+## Tech stack
+- [Flatdoc](http://ricostacruz.com/flatdoc/)
+
 ## Others
 
 ## ReadMe
