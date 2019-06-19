@@ -35,6 +35,7 @@
 - [OpenWrt Project: Welcome to the OpenWrt Project](https://openwrt.org/)
 - [DD-WRT](https://dd-wrt.com/)
 - [极客时间](https://time.geekbang.org/)
+- [贝壳物联，让你与智能设备沟通更方便的物联网云平台](https://www.bigiot.net/)
 
 ## WebApps
 - [html转markdown - 在线工具](https://tool.lu/markdown/)
