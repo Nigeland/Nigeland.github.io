@@ -95,6 +95,11 @@
 ## iApp
 - [随手记](http://www.sui.com)
 - [LastPass](https://www.lastpass.com/)
+- [网易帐号中心](http://reg.163.com/)
+- [网易帐号管家](https://id.163.com/gj/)
+- [网易邮箱大师-高效强大的全平台邮箱客户端](http://mail.163.com/dashi/)
+- [‎Mac App Store 上的“网易邮箱大师”](https://apps.apple.com/cn/app/%E7%BD%91%E6%98%93%E9%82%AE%E7%AE%B1%E5%A4%A7%E5%B8%88/id1233593954?mt=12)
+- [购买 iTunes - Microsoft Store zh-CN](https://www.microsoft.com/zh-cn/p/itunes/9pb2mz1zmb1s)
 
 ## iDevice
 - [深圳维盟 - 企业路由器](http://www.wayos.com/)
