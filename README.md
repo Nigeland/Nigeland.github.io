@@ -58,6 +58,8 @@
 - [SSL Converter](https://decoder.link/converter)
 - [test-cors.org](http://www.test-cors.org/)
 - [图片在线转换Base64,图片编码base64](http://tool.css-js.com/base64.html)
+- [Bcrypt-Generator.com - Online Bcrypt Hash Generator & Checker](https://bcrypt-generator.com/)
+- [Decrypt Bcrypt Hash Online - Check bcrypt hash against plain password](https://vuquangson.com/decrypt-bcrypt-hash-online/)
 
 - [Capture the web you’ve been missing – Delicious](https://delicious.com/)
 - [Byliner.com](https://www.byliner.com/landing)
@@ -100,6 +102,9 @@
 - [网易邮箱大师-高效强大的全平台邮箱客户端](http://mail.163.com/dashi/)
 - [‎Mac App Store 上的“网易邮箱大师”](https://apps.apple.com/cn/app/%E7%BD%91%E6%98%93%E9%82%AE%E7%AE%B1%E5%A4%A7%E5%B8%88/id1233593954?mt=12)
 - [购买 iTunes - Microsoft Store zh-CN](https://www.microsoft.com/zh-cn/p/itunes/9pb2mz1zmb1s)
+- [John the Ripper password cracker](https://www.openwall.com/john/)
+- [Hash Suite - a program to audit security of password hashes](https://hashsuite.openwall.net/)
+- 
 
 ## iDevice
 - [深圳维盟 - 企业路由器](http://www.wayos.com/)
@@ -112,6 +117,7 @@
 
 ## Tech stack
 - [Flatdoc](http://ricostacruz.com/flatdoc/)
+- [Flutter - Beautiful native apps in record time](https://flutter.dev/)
 
 ## Others
 
