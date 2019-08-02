@@ -114,6 +114,9 @@
 - [Dell Data Protection - Security Tools - 驱动程序详情 - Dell 中国](https://www.dell.com/support/home/cn/zh/cndhs1/Drivers/DriversDetails?driverId=DNN2P)
 - [适用于Precision 7720的支持 - 驱动程序和下载 - Dell 中国](https://www.dell.com/support/home/cn/zh/cndhs1/product-support/servicetag/6wj5gh2/drivers)
 - [Fingerprint Reader Installation Guide. \| Dell 中国](https://www.dell.com/support/article/cn/zh/cndhs1/sln155141/fingerprint-reader-installation-guide?lang=en)
+- [15 英寸 MacBook Pro 电池召回计划](https://support.apple.com/zh-cn/15-inch-macbook-pro-battery-recall)
+- [How to create a bootable installer for macOS](https://support.apple.com/en-us/HT201372)
+- [红米手机3S](https://www.mi.com/hongmi3s/specs/)
 
 ## Tech stack
 - [Flatdoc](http://ricostacruz.com/flatdoc/)
