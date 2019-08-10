@@ -122,7 +122,7 @@
 ## Tech stack
 - [Flatdoc](http://ricostacruz.com/flatdoc/)
 - [Flutter - Beautiful native apps in record time](https://flutter.dev/)
-- [NewRelic says…](https://newrelic.com/)
+- [NewRelic](https://newrelic.com/)
 
 ## Others
 
@@ -139,3 +139,4 @@
 - [Spring Testing](https://docs.spring.io/spring/docs/current/spring-framework-reference/testing.html)
 - [Spring Profiles - Baeldung](https://www.baeldung.com/spring-profiles)
 - [gradle init.gradle的文件配置 使用 - chuquan.ou - 博客园](http://www.cnblogs.com/langtianya/p/5220212.html)
+- [How to Configure a Proxy Server on a Mac](https://www.howtogeek.com/293444/how-to-configure-a-proxy-server-on-a-mac/)
