@@ -123,6 +123,8 @@
 - [Flatdoc](http://ricostacruz.com/flatdoc/)
 - [Flutter - Beautiful native apps in record time](https://flutter.dev/)
 - [NewRelic](https://newrelic.com/)
+- [Scoop - A command-line installer for Windows](https://scoop.sh/)
+- [The missing package manager for macOS (or Linux) — Homebrew](https://brew.sh/)
 
 ## Others
 
