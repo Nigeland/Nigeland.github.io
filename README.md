@@ -105,7 +105,10 @@
 - [购买 iTunes - Microsoft Store zh-CN](https://www.microsoft.com/zh-cn/p/itunes/9pb2mz1zmb1s)
 - [John the Ripper password cracker](https://www.openwall.com/john/)
 - [Hash Suite - a program to audit security of password hashes](https://hashsuite.openwall.net/)
-- [Shimo | VPN Client for Mac – for Everyone](https://www.shimovpn.com/)
+- [Shimo - VPN Client for Mac – for Everyone](https://www.shimovpn.com/)
+- [Scoop - A command-line installer for Windows](https://scoop.sh/)
+- [The missing package manager for macOS (or Linux) — Homebrew](https://brew.sh/)
+- [SwitchHosts!](https://oldj.github.io/SwitchHosts/)
 
 ## iDevice
 - [深圳维盟 - 企业路由器](http://www.wayos.com/)
@@ -123,9 +126,6 @@
 - [Flatdoc](http://ricostacruz.com/flatdoc/)
 - [Flutter - Beautiful native apps in record time](https://flutter.dev/)
 - [NewRelic](https://newrelic.com/)
-- [Scoop - A command-line installer for Windows](https://scoop.sh/)
-- [The missing package manager for macOS (or Linux) — Homebrew](https://brew.sh/)
-- [SwitchHosts!](https://oldj.github.io/SwitchHosts/)
 
 ## Others
 
