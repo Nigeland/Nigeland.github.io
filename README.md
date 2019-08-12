@@ -31,6 +31,9 @@
 - [PBS KIDS](https://pbskids.org/)
 - [VIPKID特权限时礼包](https://activity.vipkid.com.cn/activity/oldrechargenew/receive?channelKeyword=9550064&userId=9550065&from=timeline&isappinstalled=0)
 
+## iPrograming
+- [Welcome to Python.org](https://www.python.org/)
+
 ## iGeek
 - [Jekyll - Simple, blog-aware, static sites, Transform your plain text into static websites and blogs](https://jekyllrb.com/)
 - [Liquid template language](https://shopify.github.io/liquid/)
@@ -39,6 +42,21 @@
 - [DD-WRT](https://dd-wrt.com/)
 - [极客时间](https://time.geekbang.org/)
 - [贝壳物联，让你与智能设备沟通更方便的物联网云平台](https://www.bigiot.net/)
+
+## iApp
+- [随手记](http://www.sui.com)
+- [LastPass](https://www.lastpass.com/)
+- [网易帐号中心](http://reg.163.com/)
+- [网易帐号管家](https://id.163.com/gj/)
+- [网易邮箱大师-高效强大的全平台邮箱客户端](http://mail.163.com/dashi/)
+- [‎Mac App Store 上的“网易邮箱大师”](https://apps.apple.com/cn/app/%E7%BD%91%E6%98%93%E9%82%AE%E7%AE%B1%E5%A4%A7%E5%B8%88/id1233593954?mt=12)
+- [购买 iTunes - Microsoft Store zh-CN](https://www.microsoft.com/zh-cn/p/itunes/9pb2mz1zmb1s)
+- [John the Ripper password cracker](https://www.openwall.com/john/)
+- [Hash Suite - a program to audit security of password hashes](https://hashsuite.openwall.net/)
+- [Shimo - VPN Client for Mac – for Everyone](https://www.shimovpn.com/)
+- [Scoop - A command-line installer for Windows](https://scoop.sh/)
+- [The missing package manager for macOS (or Linux) — Homebrew](https://brew.sh/)
+- [SwitchHosts!](https://oldj.github.io/SwitchHosts/)
 
 ## WebApps
 - [html转markdown - 在线工具](https://tool.lu/markdown/)
@@ -94,21 +112,6 @@
 - [IP地址查询](http://www.ip138.com/)
 - [百度云搜索-百度网盘搜索-百度云网盘搜索引擎](http://www.bdyunso.com/)
 - ~~[WebQQ](http://w.qq.com/) [SmartQQ](https://web2.qq.com/)~~ :cry:
-
-## iApp
-- [随手记](http://www.sui.com)
-- [LastPass](https://www.lastpass.com/)
-- [网易帐号中心](http://reg.163.com/)
-- [网易帐号管家](https://id.163.com/gj/)
-- [网易邮箱大师-高效强大的全平台邮箱客户端](http://mail.163.com/dashi/)
-- [‎Mac App Store 上的“网易邮箱大师”](https://apps.apple.com/cn/app/%E7%BD%91%E6%98%93%E9%82%AE%E7%AE%B1%E5%A4%A7%E5%B8%88/id1233593954?mt=12)
-- [购买 iTunes - Microsoft Store zh-CN](https://www.microsoft.com/zh-cn/p/itunes/9pb2mz1zmb1s)
-- [John the Ripper password cracker](https://www.openwall.com/john/)
-- [Hash Suite - a program to audit security of password hashes](https://hashsuite.openwall.net/)
-- [Shimo - VPN Client for Mac – for Everyone](https://www.shimovpn.com/)
-- [Scoop - A command-line installer for Windows](https://scoop.sh/)
-- [The missing package manager for macOS (or Linux) — Homebrew](https://brew.sh/)
-- [SwitchHosts!](https://oldj.github.io/SwitchHosts/)
 
 ## iDevice
 - [深圳维盟 - 企业路由器](http://www.wayos.com/)
