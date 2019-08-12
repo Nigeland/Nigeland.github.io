@@ -57,6 +57,7 @@
 - [Scoop - A command-line installer for Windows](https://scoop.sh/)
 - [The missing package manager for macOS (or Linux) — Homebrew](https://brew.sh/)
 - [SwitchHosts!](https://oldj.github.io/SwitchHosts/)
+- [下载 SQL Server Management Studio (SSMS) - SQL Server | Microsoft Docs](https://docs.microsoft.com/zh-cn/sql/ssms/download-sql-server-management-studio-ssms)
 
 ## WebApps
 - [html转markdown - 在线工具](https://tool.lu/markdown/)
