@@ -33,6 +33,13 @@
 
 ## iPrograming
 - [Welcome to Python.org](https://www.python.org/)
+- [Ruby Programming Language](https://www.ruby-lang.org/en/)
+- [Kotlin Programming Language](https://kotlinlang.org/)
+- [The Apache Groovy programming language](http://www.groovy-lang.org/)
+- [Dart programming language | Dart](https://dart.dev/)
+- [The Go Programming Language](https://golang.org/)
+- [The Apache Groovy programming language](https://groovy-lang.org/)
+- [Java | Oracle](https://www.java.com/)
 
 ## iGeek
 - [Jekyll - Simple, blog-aware, static sites, Transform your plain text into static websites and blogs](https://jekyllrb.com/)
