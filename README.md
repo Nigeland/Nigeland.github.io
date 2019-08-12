@@ -40,6 +40,7 @@
 - [The Go Programming Language](https://golang.org/)
 - [The Apache Groovy programming language](https://groovy-lang.org/)
 - [Java | Oracle](https://www.java.com/)
+- [PHP: Hypertext Preprocessor](https://www.php.net/)
 
 ## iGeek
 - [Jekyll - Simple, blog-aware, static sites, Transform your plain text into static websites and blogs](https://jekyllrb.com/)
