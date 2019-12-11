@@ -5,7 +5,7 @@
 - [个人所得税](https://www.gerensuodeshui.cn/)
 - [陕西省住房资金管理中心](http://www.sxgjj.com/) [省公积金查询](http://www.sxgjj.com/zhfw/gjjcx.htm)
 - [西安住房公积金管理中心](http://zfgjj.xa.gov.cn/) [西安公积金查询](http://zfgjj.xa.gov.cn/wsbs/gjjcx.htm)
-- [宝鸡市住房公积金管理中心](http://zfgjj.baoji.gov.cn:9003/wt-web-gr/grlogin) [宝鸡公积金查询](http://zfgjj.baoji.gov.cn:9003/wt-web-gr/grlogin)
+- [宝鸡市住房公积金管理中心](http://zfgjj.baoji.gov.cn/) [宝鸡公积金查询](http://zfgjj.baoji.gov.cn:9003/wt-web-gr/grlogin)
 
 ## iOSS
 - [ahunigel/spring-security-oauth2-test: spring-security-oauth2-test](https://github.com/ahunigel/spring-security-oauth2-test)
