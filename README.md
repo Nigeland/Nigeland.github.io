@@ -6,6 +6,7 @@
 - [陕西省住房资金管理中心](http://www.sxgjj.com/) [省公积金查询](http://www.sxgjj.com/zhfw/gjjcx.htm)
 - [西安住房公积金管理中心](http://zfgjj.xa.gov.cn/) [西安公积金查询](http://zfgjj.xa.gov.cn/wsbs/gjjcx.htm)
 - [宝鸡市住房公积金管理中心](http://zfgjj.baoji.gov.cn/) [宝鸡公积金查询](http://zfgjj.baoji.gov.cn:9003/wt-web-gr/grlogin)
+- [手机公积金App](https://www.sjgjj.cn/)
 
 ## iOSS
 - [ahunigel/spring-security-oauth2-test: spring-security-oauth2-test](https://github.com/ahunigel/spring-security-oauth2-test)
@@ -66,6 +67,7 @@
 - [The missing package manager for macOS (or Linux) — Homebrew](https://brew.sh/)
 - [SwitchHosts!](https://oldj.github.io/SwitchHosts/)
 - [下载 SQL Server Management Studio (SSMS) - SQL Server - Microsoft Docs](https://docs.microsoft.com/zh-cn/sql/ssms/download-sql-server-management-studio-ssms)
+- [手机公积金App](https://www.sjgjj.cn/)
 
 ## WebApps
 - [html转markdown - 在线工具](https://tool.lu/markdown/)
