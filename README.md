@@ -91,6 +91,7 @@
 - [图片在线转换Base64,图片编码base64](http://tool.css-js.com/base64.html)
 - [Bcrypt-Generator.com - Online Bcrypt Hash Generator & Checker](https://bcrypt-generator.com/)
 - [Decrypt Bcrypt Hash Online - Check bcrypt hash against plain password](https://vuquangson.com/decrypt-bcrypt-hash-online/)
+- [Minify - JavaScript and CSS minifier](https://www.minifier.org/)
 
 - [Capture the web you’ve been missing – Delicious](https://delicious.com/)
 - [Byliner.com](https://www.byliner.com/landing)
