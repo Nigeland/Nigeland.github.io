@@ -49,12 +49,15 @@
 - [Jekyll - Simple, blog-aware, static sites, Transform your plain text into static websites and blogs](https://jekyllrb.com/)
 - [Liquid template language](https://shopify.github.io/liquid/)
 - [Android Bootstrap](https://fractalwrench.co.uk/)
-- [OpenWrt Project: Welcome to the OpenWrt Project](https://openwrt.org/)
+- [OpenWrt Project: Welcome to the OpenWrt Project](https://openwrt.org/) [Table of hardware](https://openwrt.org/toh/start)
 - [DD-WRT](https://dd-wrt.com/)
 - [极客时间](https://time.geekbang.org/)
 - [贝壳物联，让你与智能设备沟通更方便的物联网云平台](https://www.bigiot.net/)
-- [群晖NAS系统DSM](https://archive.synology.cn/download/Os/DSM)
+- [群晖NAS系统DSM](https://archive.synology.cn/download/Os/DSM) [Synology Web Assistant](http://find.synology.com/)
+- [XPEnology New Serial Generator](https://xpenogen.github.io/serial_generator/index.html)
 - [Unraid](https://unraid.net/)
+- [Heimdall](https://github.com/linuxserver/Heimdall)
+- [华硕路由器](http://router.asus.com/)
 
 ## iApp
 - [随手记](http://www.sui.com)
@@ -146,6 +149,7 @@
 - [Flutter - Beautiful native apps in record time](https://flutter.dev/)
 - [NewRelic](https://newrelic.com/)
 - [LayUI](https://www.layui.com/)
+- [scikit-learn machine learning](https://scikit-learn.org/)
 
 ## Others
 - [电信宽带测速](http://sn.189.cn/support/kd/lanSpeedCheck.action)
@@ -163,4 +167,6 @@
 - [Spring Testing](https://docs.spring.io/spring/docs/current/spring-framework-reference/testing.html)
 - [Spring Profiles - Baeldung](https://www.baeldung.com/spring-profiles)
 - [gradle init.gradle的文件配置 使用 - chuquan.ou - 博客园](http://www.cnblogs.com/langtianya/p/5220212.html)
+- [异步 API 的设计](https://www.ruanyifeng.com/blog/2018/12/async-api-design.html)
 - [How to Configure a Proxy Server on a Mac](https://www.howtogeek.com/293444/how-to-configure-a-proxy-server-on-a-mac/)
+- [Mac time machine](https://support.apple.com/zh-cn/HT201250) [迁移](https://support.apple.com/zh-cn/HT202380)
