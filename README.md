@@ -53,6 +53,8 @@
 - [DD-WRT](https://dd-wrt.com/)
 - [极客时间](https://time.geekbang.org/)
 - [贝壳物联，让你与智能设备沟通更方便的物联网云平台](https://www.bigiot.net/)
+- [群晖NAS系统DSM](https://archive.synology.cn/download/Os/DSM)
+- [Unraid](https://unraid.net/)
 
 ## iApp
 - [随手记](http://www.sui.com)
@@ -143,8 +145,10 @@
 - [Flatdoc](http://ricostacruz.com/flatdoc/)
 - [Flutter - Beautiful native apps in record time](https://flutter.dev/)
 - [NewRelic](https://newrelic.com/)
+- [LayUI](https://www.layui.com/)
 
 ## Others
+- [电信宽带测速](http://sn.189.cn/support/kd/lanSpeedCheck.action)
 
 ## ReadMe
 - [Spring Security - @PreFilter and @PostFilter - Baeldung](http://www.baeldung.com/spring-security-prefilter-postfilter)
