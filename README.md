@@ -152,6 +152,7 @@
 - [scikit-learn machine learning](https://scikit-learn.org/)
 
 ## Others
+- [Speedtest by Ookla](https://www.speedtest.net)
 - [电信宽带测速](http://sn.189.cn/support/kd/lanSpeedCheck.action)
 
 ## ReadMe
