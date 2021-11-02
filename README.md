@@ -154,6 +154,7 @@
 ## Others
 - [Speedtest by Ookla](https://www.speedtest.net)
 - [电信宽带测速](http://sn.189.cn/support/kd/lanSpeedCheck.action)
+- [The Game of Life](https://beltoforion.de/en/game_of_life/)
 
 ## ReadMe
 - [Spring Security - @PreFilter and @PostFilter - Baeldung](http://www.baeldung.com/spring-security-prefilter-postfilter)
