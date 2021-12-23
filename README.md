@@ -73,6 +73,7 @@
 - [SwitchHosts!](https://oldj.github.io/SwitchHosts/)
 - [下载 SQL Server Management Studio (SSMS) - SQL Server - Microsoft Docs](https://docs.microsoft.com/zh-cn/sql/ssms/download-sql-server-management-studio-ssms)
 - [手机公积金App](https://www.sjgjj.cn/)
+- [AnyConnect](https://www.catpaws2011.com/docs/?p=420)
 
 ## WebApps
 - [html转markdown - 在线工具](https://tool.lu/markdown/)
