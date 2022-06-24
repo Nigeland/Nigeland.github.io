@@ -74,6 +74,7 @@
 - [下载 SQL Server Management Studio (SSMS) - SQL Server - Microsoft Docs](https://docs.microsoft.com/zh-cn/sql/ssms/download-sql-server-management-studio-ssms)
 - [手机公积金App](https://www.sjgjj.cn/)
 - [AnyConnect](https://www.catpaws2011.com/docs/?p=420)
+- [FSCapture](https://www.faststone.org/FSCaptureDetail.htm)
 
 ## WebApps
 - [convert-yaml-to-json](https://www.json2yaml.com/convert-yaml-to-json)
