@@ -75,6 +75,7 @@
 - [手机公积金App](https://www.sjgjj.cn/)
 - [AnyConnect](https://www.catpaws2011.com/docs/?p=420)
 - [FSCapture](https://www.faststone.org/FSCaptureDetail.htm)
+- [LICEcap - simple animated screen captures](https://www.cockos.com/licecap/)
 
 ## WebApps
 - [convert-yaml-to-json](https://www.json2yaml.com/convert-yaml-to-json)
