@@ -58,7 +58,11 @@
 - [华硕路由器](http://router.asus.com/)
 
 ## iDNS
-[米发免费域名转发_301重定向_URL跳转_微信跳出](https://www.mfpad.com/)
+- [米发免费域名转发_301重定向_URL跳转_微信跳出](https://www.mfpad.com/)
+- [阿里云域名检测](https://zijian.aliyun.com/)
+- [Test ipv6 site](https://www.test-ipv6.net/)
+- [华硕路由器](http://router.asus.com/)
+- [ASUS Nslookup](http://iplookup.asus.com/nslookup.php)
 
 ## iApp
 - [随手记](http://www.sui.com)
