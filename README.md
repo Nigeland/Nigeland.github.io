@@ -63,6 +63,7 @@
 - [Test ipv6 site](https://www.test-ipv6.net/)
 - [华硕路由器](http://router.asus.com/)
 - [ASUS Nslookup](http://iplookup.asus.com/nslookup.php)
+- [端口扫描站长工具](https://tool.chinaz.com/port/)
 
 ## iApp
 - [随手记](http://www.sui.com)
