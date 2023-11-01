@@ -26,6 +26,7 @@
 - [快递100](https://m.kuaidi100.com/)
 - [西安交通发布实时公交](http://www.xajtfb.cn/BusPage/bus_realtime)
 - [2019陕西旅游年票](http://np.xtour.cn/)
+- [微信文件传输助手](https://filehelper.weixin.qq.com/?from=windows&amp;type=recommend)
 
 ## iBaby
 - [巧虎-个人中心](https://my.qiaohu.com/)
